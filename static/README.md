@@ -1,6 +1,6 @@
 # Presentation materials
 
-	| Date | Event | Title |
+| Date | Event | Title |
 | ----------- | ----------- | ----------- |  
 | 230218 | DDD | 커뮤니티 행사를 준비하여 |  
 | 231008 | [PyCon Korea Busan Seminar](https://event-us.kr/pyconkr/event/71494) | Python 으로 만들어보는 업무자동화 |  
